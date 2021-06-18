@@ -1,4 +1,4 @@
-# price_checker
+# Flutter Price Checker
 
 An app for checking item prices through Morabaa systems.
 
